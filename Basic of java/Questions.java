@@ -5,13 +5,13 @@ public class Questions {
         int n = sc.nextInt();
 
 
-        // Sum of first 10 natural no 
+        Sum of first 10 natural no 
 
-        // int sum=0;
-        // for(int i=1 ; i<=n ;i++){
-        //     sum=sum+i;
+        int sum=0;
+        for(int i=1 ; i<=n ;i++){
+            sum=sum+i;
              
-        // }System.out.println(sum);
+        }System.out.println(sum);
        
 
 
@@ -25,7 +25,7 @@ public class Questions {
     //     System.out.println(k);
     // }
 
-        // Code for palindrome no 
+        
 
     
 
@@ -33,3 +33,4 @@ public class Questions {
     }
     
 }
+
